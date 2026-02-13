@@ -201,7 +201,7 @@ const Dashboard = () => {
               <LucideFilePlus size={32} className=' text-white' />
             </div>
             <h3 className={styles.newResumeTitle}>Create New Resume</h3>
-            <p className={styles.newResumeText}>Start buildeing your career</p>
+            <p className={styles.newResumeText}>Start building your career</p>
           </div>
 
           {allResumes.map((resume)=>(
